@@ -13,7 +13,8 @@ Welcome to my personal README! I'm Abdelrahman Mohamed, a passionate front-end d
 - **Frameworks & Libraries:**
   - React 
   - Next.js 
-
+  - React Native
+     
 - **Styling:** 
   - ShadCn 
   - Tailwind CSS 
